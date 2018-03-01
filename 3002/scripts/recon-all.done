@@ -1,0 +1,13 @@
+------------------------------
+SUBJECT 3002
+START_TIME Tue Feb 27 23:40:35 UTC 2018
+END_TIME Wed Feb 28 23:48:42 UTC 2018
+RUNTIME_HOURS 24.135
+USER ubuntu
+HOST tf
+PROCESSOR x86_64
+OS Linux
+UNAME Linux tf 4.4.0-81-generic #104-Ubuntu SMP Wed Jun 14 08:17:06 UTC 2017 x86_64 x86_64 x86_64 GNU/Linux
+VERSION $Id: recon-all,v 1.580.2.16 2017/01/18 14:11:24 zkaufman Exp $
+CMDPATH /usr/local/freesurfer/bin/recon-all
+CMDARGS -all -i sMRI/3002.nii -subjid 3002 -sd /usr/local/freesurfer/subjects
